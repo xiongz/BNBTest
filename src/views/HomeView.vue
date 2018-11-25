@@ -8,7 +8,7 @@
       <div class="i-item" :class="market=='USDT'?'active':''" @click="changeMarket('USDT')">USDT市场</div>
     </div>
     </div>
-    <div class="p-list">
+    <div class="p-list" style="margin-top:45px;">
       <div class="c-item">市场</div>
       <div class="c-item">币种</div>
       <div class="c-item">最新价</div>
